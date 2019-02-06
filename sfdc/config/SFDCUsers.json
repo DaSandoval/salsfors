@@ -1,0 +1,49 @@
+{
+  "admin user": {
+    "user name":"svalencia@at05.com",
+    "user password":"Control123!",
+    "first name": "Silvia",
+    "Last name": "Valencia",
+    "user token": "X8WZQYtjjZDT6k1dZYY8F8wR",
+    "grant type": "password",
+    "client id": "3MVG9mclR62wycM0WJ.8j_N7CopCg916XoLJUdk3fmjmaq73k2e2frwkTgowja90bC2aT26PnTX8VBNg8yzla",
+    "client secret": "6382952843294971814"
+    },
+  "other role user": {
+    "user name": "",
+    "user password": "",
+    "user token": "",
+    "grant type": "",
+    "client id": "",
+    "client secret": ""
+  },
+  "danny": {
+    "user name": "daniels@estudent.com",
+    "user password": "blackmoon10",
+    "first name": "Daniel",
+    "Last name": "Sandoval",
+    "user token": "8tx5X6ehYPxwKwGXLgB71MIPD",
+    "grant type": "password",
+    "client id": "3MVG9dZJodJWITSvBqJYyVAXtTFmipnrH6l4kHrwYr4J0qxjmA7JTx5SKK83ZAjdUuXiRE18c2kjRRVXcJkd9",
+    "client secret": "6462463291053592650"
+  },
+  "franz": {
+    "user name": "franzsilva@jala.com",
+    "user password": "12franz34",
+    "user token": "bSywCWX8GwFsPHhkPRDnJLexp",
+    "grant type": "password",
+    "client id": "3MVG9dZJodJWITSu8nC1.qHyTuH0pe37plrEagsXi2d0k..UOwTrVmqWlMRs2baTyb4SZ5l6HmyvKoTektdeY",
+    "client secret": "6137753912953041340"
+  }
+,
+  "erik": {
+    "user name": "Erik.Vargas@fundacion-jala.org",
+    "user password": "albertoerik8492",
+    "first name": "Erik",
+    "Last name": "Vargas",
+    "user token": "52AQAuH4xbArs9LXSc9vYAPmg",
+    "grant type": "password",
+    "client id": "3MVG9dZJodJWITSsPRQKvhlTAHLQVFiHnL.Rov.GAFReBCTyM3m8WslhDsIXO5SPl8h7jfQEMRccQgwYbD6q8",
+    "client secret": "928902302547745457"
+  }
+}
